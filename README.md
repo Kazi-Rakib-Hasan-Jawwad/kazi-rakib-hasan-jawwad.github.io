@@ -5,7 +5,7 @@ This repository contains a simple static academic website for GitHub Pages.
 Target URL:
 
 ```text
-https://kazirakibhasan.github.io/
+https://kazi-rakib-hasan-jawwad.github.io
 ```
 
 ## Setup
@@ -13,7 +13,7 @@ https://kazirakibhasan.github.io/
 1. Create a GitHub repository named exactly:
 
 ```text
-kazirakibhasan.github.io
+kazi-rakib-hasan-jawwad.github.io
 ```
 
 2. Upload these files to the repository root:
@@ -22,7 +22,6 @@ kazirakibhasan.github.io
 index.html
 style.css
 README.md
-.nojekyll
 ```
 
 3. Go to repository **Settings > Pages**.
